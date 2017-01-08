@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Saya membuat website ini karena jarang sekali info tentang riset atau whitepaper di bidang game yang berbahasa Indonesia. Pembahasan tentang berbagai topik terkini di industri game sangat penting agar industri game Indonesia bisa mengejar ketinggalan dari negara-negara maju.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Semua topik yang akan di bahas di website ini bebas untuk digunakan sebagai topik penelitian atau skripsi/tugas akhir. Jika ingin bertanya lebih lanjut silakan kontak saya via email atau twitter.
